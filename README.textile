@@ -1,6 +1,10 @@
 <h1>Whoa! Test!</h1>
-notextile.. <meta http-equiv="refresh" content="0;url=http://docs.github.com/">
+notextile.. nothing
 <notextile>
-<meta http-equiv="refresh" content="0;url=http://docs.github.com/">
+first thing
 </notextile>
+==notextile==
+something
+==
+
 <p>Once upon a time, wheeeee</p>
