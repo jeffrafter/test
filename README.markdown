@@ -2,7 +2,9 @@
 <p>Once upon a time, wheeeee</p>
 
 <div>
-  <<superbad:meta />yo
+  <div:meta>
+    This
+  </div:meta>
 </div>
 
 Superbad!
