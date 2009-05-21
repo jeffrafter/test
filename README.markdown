@@ -2,9 +2,7 @@
 <p>Once upon a time, wheeeee</p>
 
 <div>
-  <div:meta>
-    This
-  </div:meta>
+  Th<div:meta xmlns:div="http://www.w3.org/1999/xhtml"/>is
 </div>
 
 Superbad!
